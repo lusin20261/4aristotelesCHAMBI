@@ -1,0 +1,5 @@
+print("------------------PRÁCTICA-----------------")
+a = input("Escribe tu nombre: ")
+b = input("Escribe el nombre de tu mascota: ")
+c = input("Escribe tu hobby favorito: ")
+print("Hola soy",a,"mi perro se llama",b,"mi hobby favorito es",c,"chaooo")
